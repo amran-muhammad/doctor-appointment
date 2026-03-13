@@ -23,7 +23,7 @@ define('SMTP_PORT', 587);                        // 587 for TLS, 465 for SSL
 define('SMTP_SECURE', 'tls');                    // 'tls' or 'ssl'
 define('SMTP_AUTH', true);
 define('SMTP_USER', 'amran.appifylab@gmail.com');     // Your SMTP username/email
-define('SMTP_PASS', 'qyhfgxiyffpudxgx');         // Your SMTP password or app password
+// define('SMTP_PASS', 'qyhfgxiyffpudxgx');         // Your SMTP password or app password
 define('SMTP_FROM_EMAIL', 'noreply@medbook.com');
 define('SMTP_FROM_NAME', 'MedBook Appointments');
 
